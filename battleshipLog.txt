@@ -1,0 +1,1472 @@
+
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Changing engine
+Response: Type: benzin, Power: 120000
+Result: Engine changed
+
+Command: Move forward
+Response: Engine full power
+Result: Ship moves forward
+
+Command: Changing speed
+Response: 35
+Result: Speed set at 35 knots
+
+Command: Changing engine
+Response: Type: ert, Power: 123456
+Result: Engine changed
+
+Command: Changing speed
+Response: 56
+Result: Speed set at 56 knots
+
+Command: Changing engine
+Response: Type: asdf, Power: 234567
+Result: Engine changed
+
+Command: Changing speed
+Response: 115
+Result: Speed set at 115 knots
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Check location
+Response: Launching antenna
+Result: location  
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Changing engine
+Response: Type: asdf, Power: 1234567
+Result: Engine changed
+
+Command: Cannot adjust speed
+Response: 
+Result:  Engine is off.
+
+Command: Move forward
+Response: Engine full power
+Result: Ship moves forward
+
+Command: Changing speed
+Response: 39
+Result: Speed set at 39 knots
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Enemy was detected in a 
+Response: distance: location  
+Result:  miles.
+
+Command: Enemy was detected in a 
+Response: distance: location  
+Result:  miles.
+
+Command: Enemy was detected in a 
+Response: distance: location  
+Result:  miles.
+
+Command: Enemy was detected in a 
+Response: distance: location  
+Result:  miles.
+
+Command: Enemy was detected in a 
+Response: distance: location  
+Result:  miles.
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Enemy was detected in a 
+Response: distance: 33
+Result:  miles.
+
+Command: Enemy was detected in a 
+Response: distance: 47
+Result:  miles.
+
+Command: Enemy was detected in a 
+Response: distance: 34
+Result:  miles.
+
+Command: Changing engine
+Response: Type: asdfg, Power: 1234567
+Result: Engine changed
+
+Command: Move forward
+Response: Engine full power
+Result: Ship moves forward
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is37
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is3
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is28
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is43
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is42
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is33
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is15
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is41
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is45
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is31
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is10
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is37
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is5
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is14
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is39
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is39
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is38
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is14
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is30
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is47
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is37
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is27
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is23
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is10
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is39
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is3
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is41
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is40
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is26
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is19
+Result: Enemy was detected.
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is44
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is20
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is27
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is31
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is25
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is25
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is32
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is19
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is31
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is21
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is10
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is29
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is28
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is20
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is26
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is32
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is26
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is36
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is17
+Result: Enemy was detected.
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is6
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is9
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is16
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is9
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is13
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is12
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is14
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is19
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is10
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is6
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is12
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is11
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is14
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is4
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is6
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is15
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is9
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is10
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is13
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is15
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is4
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is15
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is19
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is9
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is9
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is9
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is11
+Result: Enemy was detected.
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is12
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is11
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is16
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is4
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is4
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is14
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is10
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is11
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is16
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is14
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is12
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is16
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is19
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is17
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is17
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is15
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is16
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is13
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is22
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is10
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is13
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is15
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is19
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is15
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is22
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is25
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is19
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is6
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is16
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is6
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is2
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is17
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is15
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is17
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is18
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is9
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is3
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is10
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is6
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is11
+Result: Enemy was detected.
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is30
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is21
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is18
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is27
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is16
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is7
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is13
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is14
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is18
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is25
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is5
+Result: Enemy was detected.
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is17
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is20
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is21
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is21
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is11
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is27
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is8
+Result: Enemy was detected.
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is24
+Result: Enemy was detected.
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Check for enemy. 
+Response: Distance is9
+Result: Enemy was detected.
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Changing engine
+Response: Type: MAGIC, Power: 900000
+Result: Engine changed
+
+Command: Changing crew quantity
+Response: 200
+Result: Crew changed
+
+Command: Move forward
+Response: Engine full power
+Result: Ship moves forward
+
+Command: Changing speed
+Response: 400
+Result: Speed set at 400 knots
+
+Command: Attack 
+Response: Distance is unknown0
+Result: Enemy was not detected.
+
+Command: Check for enemy. 
+Response: Distance is16
+Result: Enemy was detected.
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 16
+Result: amount of ammo left = 11
+
+Command: Check for enemy. 
+Response: Distance is20
+Result: Enemy was detected.
+
+Command: Check for enemy. 
+Response: Distance is12
+Result: Enemy was detected.
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 12
+Result: amount of ammo left = 15
+
+Command: Turn east
+Response: Turning according to compass
+Result: Ship is heading to east
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м,  tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м, tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Move forward
+Response: Engine full power
+Result: Ship moves forward
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Attack 
+Response: Distance is unknown 0
+Result: Enemy was not detected.
+
+Command: Check for enemy. 
+Response: Distance is 5
+Result: Enemy was detected.
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 5
+Result: amount of machine gun ammo left = 1488
+
+Command: Check for enemy. 
+Response: Distance is 27
+Result: Enemy was detected.
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 15
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 14
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 13
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 12
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 11
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 10
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 9
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 8
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 7
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 6
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 5
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 4
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 3
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 2
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of torpedos ammo left = 1
+
+Command: Attack an enemy.
+Response: Can not attack 
+Result: amount of torpedos ammo left = 0
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 27
+Result: amount of light air missiles ammo left = 31
+
+Command: Return to port
+Response: Need to determine location
+Result: Turning on antenna
+
+Command: Send coordinates
+Response: Current location is determined 
+Result: location  
+
+Command: Return to port
+Response: Turning towards port
+Result: Ship is returning to port
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м, tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+Command: Move forward
+Response: Engine full power
+Result: Ship moves forward
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Check for enemy. 
+Response: Distance is 3
+Result: Enemy was detected.
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 3
+Result:  miles. Amount of main gun ammo left = 499
+
+Command: Changing speed
+Response: 25
+Result: Speed set at 25 knots
+
+Command: Check for enemy. 
+Response: Distance is 19
+Result: Enemy was detected.
+
+Command: Attack an enemy.
+Response: Was destroyed an enemy in a distance of 19
+Result:  miles. Amount of light air missiles ammo left = 31
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Changing speed
+Response: 30
+Result: Speed set at 30 knots
+
+Command: Cheking hull integriry
+Response: 
+Result: Integrity got lower
+
+Command: Hull is damaged!
+Response: 
+Result: Sending SOS signal
+End log
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м, tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
+
+<--- --- --- --- --- --- ---> 
+
+Command: Start log.
+Response: Creating new ship
+Result: Ship is created.
+
+Command: Get ship info
+Response: 
+Result: Printing parameters...
+Hull: Material is steel, length is 50.0 м, tonnage is 5000.0 tonns, amount of cabins is 50
+Crew: Crew consists of 150 persons
+Engine: Engine type is Diesel, power is 60000 hp.
+Antenna: Transmittion frequency is 2400 HZ
